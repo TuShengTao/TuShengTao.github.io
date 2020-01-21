@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2020/01/21/ce-shi-xin-jian-wen-zhang/"/>
-      <url>/2020/01/21/ce-shi-xin-jian-wen-zhang/</url>
+      <title>test1</title>
+      <link href="/2020/01/21/test1/"/>
+      <url>/2020/01/21/test1/</url>
       
-        <content type="html"><![CDATA[<p>title: 测试新建文章1<br>top: false<br>cover: false<br>toc: true<br>mathjax: true<br>date: 2020-01-21 15:41:03<br>password:<br>summary: Markdown新建文章测试1！<br>tags:</p><ul><li>测试<br>categories:</li><li>测试<br>typora-copy-images-to: 测试新建文章<br>typora-root-url: 测试新建文章<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1></li></ul><div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1382596189&auto=1&height=66"></iframe></div>![图片1](1.jpg)```+pythondef abc():    abc=2    a=3    print '123'```<center><u>居中且有下划线</u></center> |  1   |  2   |  3   || :--: | :--: | :--: ||      |      |      ||      |      |      ||      |      |      |<p><strong>加粗的字</strong>，<strong>也是加粗的字。</strong></p><p><img src="img1.jpg" alt="img1"></p><p><img src="/f3006938109685ff0f6a988f34e343be.jpg" alt="f3006938109685ff0f6a988f34e343be"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="测试标题1"><a href="#测试标题1" class="headerlink" title="测试标题1"></a><center>测试标题1</center></h1><p><img src="/7b37642a8b1103e2d4a5fa007bf41c07.jpg" alt="图片1"></p><pre class="line-numbers language-+python"><code class="language-+python">def abc():    abc=2    a=3    print '123'<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><center><u>居中且有下划线</u></center> |  1   |  2   |  3   || :--: | :--: | :--: ||      |      |      ||      |      |      ||      |      |      |<p><strong>加粗的字</strong>，<strong>也是加粗的字。</strong></p><h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1382596189&auto=1&height=66"></iframe></div>]]></content>
       
       
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     

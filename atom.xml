@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tushengtao.github.io/"/>
-  <updated>2020-01-21T09:38:07.093Z</updated>
+  <updated>2020-01-21T10:14:40.820Z</updated>
   <id>https://tushengtao.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://tushengtao.github.io/2020/01/21/ce-shi-xin-jian-wen-zhang/"/>
-    <id>https://tushengtao.github.io/2020/01/21/ce-shi-xin-jian-wen-zhang/</id>
-    <published>2020-01-21T07:41:03.690Z</published>
-    <updated>2020-01-21T09:38:07.093Z</updated>
+    <title>test1</title>
+    <link href="https://tushengtao.github.io/2020/01/21/test1/"/>
+    <id>https://tushengtao.github.io/2020/01/21/test1/</id>
+    <published>2020-01-21T09:55:46.000Z</published>
+    <updated>2020-01-21T10:14:40.820Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,16 @@
       
         
         
-          &lt;p&gt;title: 测试新建文章1&lt;br&gt;top: false&lt;br&gt;cover: false&lt;br&gt;toc: true&lt;br&gt;mathjax: true&lt;br&gt;date: 2020-01-21 15:41:03&lt;br&gt;password:&lt;br&gt;summary:
+          &lt;h1 id=&quot;测试标题1&quot;&gt;&lt;a href=&quot;#测试标题1&quot; class=&quot;headerlink&quot; title=&quot;测试标题1&quot;&gt;&lt;/a&gt;&lt;center&gt;测试标题1&lt;/center&gt;&lt;/h1&gt;&lt;p&gt;&lt;img
         
       
     
     </summary>
     
+      <category term="测试" scheme="https://tushengtao.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="https://tushengtao.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
