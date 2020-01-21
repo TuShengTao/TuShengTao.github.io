@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2020/01/21/ce-shi-xin-jian-wen-zhang/"/>
+      <url>/2020/01/21/ce-shi-xin-jian-wen-zhang/</url>
+      
+        <content type="html"><![CDATA[<p>title: 测试新建文章1<br>top: false<br>cover: false<br>toc: true<br>mathjax: true<br>date: 2020-01-21 15:41:03<br>password:<br>summary: Markdown新建文章测试1！<br>tags:</p><ul><li>测试<br>categories:</li><li>测试<br>typora-copy-images-to: 测试新建文章<br>typora-root-url: 测试新建文章<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1></li></ul><div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1382596189&auto=1&height=66"></iframe></div>![图片1](1.jpg)```+pythondef abc():    abc=2    a=3    print '123'```<center><u>居中且有下划线</u></center> |  1   |  2   |  3   || :--: | :--: | :--: ||      |      |      ||      |      |      ||      |      |      |<p><strong>加粗的字</strong>，<strong>也是加粗的字。</strong></p><p><img src="img1.jpg" alt="img1"></p><p><img src="/f3006938109685ff0f6a988f34e343be.jpg" alt="f3006938109685ff0f6a988f34e343be"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>二零一九年终总结</title>
       <link href="/2020/01/20/2017-conclusion/"/>
       <url>/2020/01/20/2017-conclusion/</url>
       
-        <content type="html"><![CDATA[<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=407679465&auto=1&height=66"></iframe></div>时间如白驹过隙，踏入2020年是要好好计划一番了。在定好大目标后，按照目标再制定详细的计划。“不积跬步无以至千里，不积小流无以成江海”，只要一步步完成既定目标，相信2020会是自己一生中都不平凡的一年!加油！后续......<h1 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h1><hr><p>回顾我的2019：</p><p><img src="1.jpg" alt><br>测试!!!</p><h1 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h1><hr><p>计划：</p><p>测试!!!</p><blockquote><p>有志者事竟成。</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1382596189&auto=1&height=66"></iframe></div><p>时间如白驹过隙，踏入2020年是要好好计划一番了。在定好大目标后，按照目标再制定详细的计划。“不积跬步无以至千里，不积小流无以成江海”，只要一步步完成既定目标，相信2020会是自己一生中都不平凡的一年!加油！后续…… </p><h1 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h1><hr><p>回顾我的2019：</p><p><img src="1.jpg" alt><br>测试!!!</p><h1 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h1><hr><p>计划：</p><p>测试!!!</p><blockquote><p>有志者事竟成。</p></blockquote>]]></content>
       
       
       <categories>
