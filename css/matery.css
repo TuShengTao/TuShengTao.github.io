@@ -1,19 +1,19 @@
-/*全局基础样式*/
-/*小屏幕下(手机类)的样式*/
+/*ȫ�ֻ�����ʽ*/
+/*С��Ļ��(�ֻ���)����ʽ*/
 @media only screen and (max-width: 601px) {
     .container {
         width: 95%;
     }
 }
 
-/*中等屏幕下(平板类)的样式*/
+/*�е���Ļ��(ƽ����)����ʽ*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .container {
         width: 90%;
     }
 }
 
-/*大屏幕下(桌面类)的样式*/
+/*����Ļ��(������)����ʽ*/
 @media only screen and (min-width: 993px) {
     .container {
         width: 85%;
@@ -164,7 +164,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #bf30ac 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #FFFFFF 0%, #0f9d58 100%);
     opacity: 0.7;
 }
 
@@ -343,7 +343,7 @@ header .go-back i {
     line-height: 56px;
 }
 
-/* 背景图效果. */
+/* ����ͼЧ��. */
 .bg-cover {
     position: relative;
     display: flex;
@@ -554,7 +554,7 @@ header .go-back i {
     }
 }
 
-/*中等屏幕下(平板类)的样式*/
+/*�е���Ļ��(ƽ����)����ʽ*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .index-card .card .card-content {
         padding: 20px 20px;
@@ -670,7 +670,7 @@ header .go-back i {
     margin-top: -10px;
 }
 
-/*文章列表卡片各样式*/
+/*�����б���Ƭ����ʽ*/
 #articles {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -807,12 +807,12 @@ article .article-tags .chip {
     color: #999 !important;
 }
 
-/*文章详情样式*/
+/*����������ʽ*/
 #artDetail {
     margin-top: -60px;
 }
 
-/* 修改小屏幕下文章详情table样式. */
+/* �޸�С��Ļ����������table��ʽ. */
 @media only screen and (max-width: 550px) {
     #articleContent table{
         table-layout: fixed;
@@ -1613,7 +1613,7 @@ table tr:nth-child(2n), thead {
     cursor: pointer;
 }
 
-/*尾部样式*/
+/*β����ʽ*/
 footer {
     padding-bottom: 1px;
 }
@@ -1631,7 +1631,7 @@ footer .copy-right {
     color: #dbdbdb;
 }
 
-/*搜索层样式*/
+/*��������ʽ*/
 #searchIcon {
     font-size: 1.2rem;
 }
@@ -1676,7 +1676,7 @@ footer .copy-right {
     white-space: pre-wrap;
 }
 
-/*回到顶部按钮样式*/
+/*�ص�������ť��ʽ*/
 .top-scroll {
     display: none;
     position: fixed;
