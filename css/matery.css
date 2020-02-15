@@ -165,7 +165,7 @@ mark {
 
 .bg-color {
     background-image: linear-gradient(to right, #000000 80%, #000000 80%);
-    opacity: 0.7;x
+    opacity: 0.7;
 }
 
 .text-color {
@@ -405,7 +405,7 @@ header .go-back i {
 .bg-cover .post-title {
     font-size: 1.9rem;
 }
-
+/*
 @-webkit-keyframes rainbow {
     0%,
     100% {
@@ -444,8 +444,8 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
-}
-
+}*/
+/*
 @keyframes rainbow {
     0%,
     100% {
@@ -484,7 +484,7 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
-}
+}*/
 
 .carousel .indicators {
     padding-bottom: 10px !important;
