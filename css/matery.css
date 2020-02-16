@@ -1,19 +1,19 @@
-/*ȫ�ֻ�����ʽ*/
-/*С��Ļ��(�ֻ���)����ʽ*/
+/*È«¾Ö»ù´¡ÑùÊ½*/
+/*Ð¡ÆÁÄ»ÏÂ(ÊÖ»úÀà)µÄÑùÊ½*/
 @media only screen and (max-width: 601px) {
     .container {
         width: 95%;
     }
 }
 
-/*�е���Ļ��(ƽ����)����ʽ*/
+/*ÖÐµÈÆÁÄ»ÏÂ(Æ½°åÀà)µÄÑùÊ½*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .container {
         width: 90%;
     }
 }
 
-/*����Ļ��(������)����ʽ*/
+/*´óÆÁÄ»ÏÂ(×ÀÃæÀà)µÄÑùÊ½*/
 @media only screen and (min-width: 993px) {
     .container {
         width: 85%;
@@ -164,13 +164,12 @@ mark {
 }
 
 .tag-color {
-    background-image: linear-gradient(to right, #ffa726 100%, #0000#ffa726 100%);
-    opacity: 0.7;
+     background-image: linear-gradient(to right, #ffa726 100%, #ffa726 100%);
 }
 
 .bg-color {
     background-image: linear-gradient(to right, #000000 100%, #000000 100%);
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .text-color {
@@ -178,7 +177,7 @@ mark {
 }
 
 .white-color {
-    color: #fff;
+    color:  #ffa726;
 }
 
 .progress-bar {
@@ -290,6 +289,9 @@ header .side-nav .social-link {
     display: inline;
     padding: 0 12px;
 }
+.zhihu {
+     color: #ffa726;
+}
 
 .cover-btns {
     position: relative;
@@ -330,7 +332,7 @@ header .side-nav .social-link {
 .cover-social-link a {
     padding: 0 15px;
     font-size: 1.35rem;
-    color: #fff;
+    color: #ffa726;
 }
 
 header .go-back {
@@ -348,7 +350,7 @@ header .go-back i {
     line-height: 56px;
 }
 
-/* ����ͼЧ��. */
+/* ±³¾°Í¼Ð§¹û. */
 .bg-cover {
     position: relative;
     display: flex;
@@ -564,7 +566,7 @@ header .go-back i {
     }
 }
 
-/*�е���Ļ��(ƽ����)����ʽ*/
+/*ÖÐµÈÆÁÄ»ÏÂ(Æ½°åÀà)µÄÑùÊ½*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .index-card .card .card-content {
         padding: 20px 20px;
@@ -680,7 +682,7 @@ header .go-back i {
     margin-top: -10px;
 }
 
-/*�����б���Ƭ����ʽ*/
+/*ÎÄÕÂÁÐ±í¿¨Æ¬¸÷ÑùÊ½*/
 #articles {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -742,10 +744,12 @@ article .article-content .publish-author {
 
 .publish-author .icon-category {
     padding-left: 10px;
+    color: #ffa726
 }
 
 .article-content .publish-author .post-category {
     padding-left: 5px;
+    color: #000000
 }
 
 article .card .card-action {
@@ -759,7 +763,7 @@ article .article-tags .chip {
     font-weight: 400;
     height: 22px;
     line-height: 22px;
-    color: #fff;
+    color: #ffa726;
     border-radius: 10px;
 }
 
@@ -817,12 +821,12 @@ article .article-tags .chip {
     color: #999 !important;
 }
 
-/*����������ʽ*/
+/*ÎÄÕÂÏêÇéÑùÊ½*/
 #artDetail {
     margin-top: -60px;
 }
 
-/* �޸�С��Ļ����������table��ʽ. */
+/* ÐÞ¸ÄÐ¡ÆÁÄ»ÏÂÎÄÕÂÏêÇétableÑùÊ½. */
 @media only screen and (max-width: 550px) {
     #articleContent table{
         table-layout: fixed;
@@ -865,7 +869,7 @@ article .article-tags .chip {
     font-weight: 400;
     height: 25px;
     line-height: 25px;
-    color: #fff;
+    color: #ffa726;
     border-radius: 15px;
     margin-right: 5px;
     margin-bottom: 2px;
@@ -1060,7 +1064,7 @@ table tr:nth-child(2n), thead {
 
 .chip-container .tag-title {
     margin-bottom: 10px;
-    color: #3C4858;
+    color: #ffa726;
     font-size: 1.75rem;
     font-weight: 400;
 }
@@ -1623,7 +1627,7 @@ table tr:nth-child(2n), thead {
     cursor: pointer;
 }
 
-/*β����ʽ*/
+/*Î²²¿ÑùÊ½*/
 footer {
     padding-bottom: 1px;
 }
@@ -1631,17 +1635,18 @@ footer {
 footer .social-statis {
     margin-top: 10px;
     position: relative;
+    color: #ffa726;
 }
 
 footer a {
-    color: #fff;
+    color: #ffa726;
 }
 
 footer .copy-right {
-    color: #dbdbdb;
+    color: #ffa726;
 }
 
-/*��������ʽ*/
+/*ËÑË÷²ãÑùÊ½*/
 #searchIcon {
     font-size: 1.2rem;
 }
@@ -1686,7 +1691,7 @@ footer .copy-right {
     white-space: pre-wrap;
 }
 
-/*�ص�������ť��ʽ*/
+/*»Øµ½¶¥²¿°´Å¥ÑùÊ½*/
 .top-scroll {
     display: none;
     position: fixed;
