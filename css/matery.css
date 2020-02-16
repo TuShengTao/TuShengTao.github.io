@@ -245,6 +245,7 @@ header .side-nav .mobile-head .logo-name {
     margin-top: -30px;
     padding-left: 10px;
     font-size: 1.5rem;
+    color: #ffa726;
 }
 
 header .side-nav .mobile-head .logo-desc {
@@ -253,7 +254,7 @@ header .side-nav .mobile-head .logo-desc {
     padding-bottom: 10px;
     font-size: 0.8rem;
     line-height: 1.3rem;
-    color: #e3e3e3;
+    color: #ffa726;
 }
 
 header .side-nav .menu-list li {
@@ -264,7 +265,7 @@ header .side-nav .menu-list li {
 header .side-nav .menu-list a {
     height: 50px;
     line-height: 50px;
-    color: #34495e !important;
+    color: #ffa726 !important;
 }
 
 .mobile-menu-list a i {
@@ -276,6 +277,7 @@ header .side-nav .menu-list a {
 header .side-nav .fa-fw {
     width: 3.3rem;
     text-align: left;
+    color: #ffa726;
 }
 
 header .side-nav .social-link {
@@ -1649,6 +1651,7 @@ footer .copy-right {
 /*ËÑË÷²ãÑùÊ½*/
 #searchIcon {
     font-size: 1.2rem;
+    color: #faa726
 }
 
 #searchModal {
