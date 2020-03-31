@@ -1,4 +1,0 @@
-User-agent: * 
-Disallow: 
-Sitemap: https://wuchangsir.com/sitemap.xml
-Sitemap: https://wuchangsir.com/baidusitemap.xml
