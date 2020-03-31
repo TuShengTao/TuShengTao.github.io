@@ -1,9 +1,4 @@
-# hexo robots.txt
-User-agent: * Allow: /
-Allow: /archives/
-Disallow: /vendors/
-Disallow: /js/
-Disallow: /css/
-
+User-agent: * 
+Disallow: 
 Sitemap: https://wuchangsir.com/sitemap.xml
 Sitemap: https://wuchangsir.com/baidusitemap.xml
