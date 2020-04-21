@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>无常</title>
   
-  <subtitle>无常先生</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wuchangsir.com/"/>
-  <updated>2020-03-31T15:15:16.551Z</updated>
+  <updated>2020-04-21T05:31:42.567Z</updated>
   <id>https://wuchangsir.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>十天搞定考研词汇之第一天</title>
+    <link href="https://wuchangsir.com/archives/6c319103.html"/>
+    <id>https://wuchangsir.com/archives/6c319103.html</id>
+    <published>2020-04-10T08:41:27.000Z</published>
+    <updated>2020-04-21T05:31:42.567Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;​   
+        
+      
+    
+    </summary>
+    
+      <category term="考研" scheme="https://wuchangsir.com/categories/%E8%80%83%E7%A0%94/"/>
+    
+    
+      <category term="英语" scheme="https://wuchangsir.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2010考研英二阅读01</title>
     <link href="https://wuchangsir.com/archives/6972970a.html"/>
     <id>https://wuchangsir.com/archives/6972970a.html</id>
     <published>2020-03-29T12:50:08.000Z</published>
-    <updated>2020-03-31T15:15:16.551Z</updated>
+    <updated>2020-04-21T05:45:37.254Z</updated>
     
     <summary type="html">
     
