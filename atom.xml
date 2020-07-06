@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wuchangsir.com/"/>
-  <updated>2020-04-29T02:53:09.126Z</updated>
+  <updated>2020-07-06T04:55:21.328Z</updated>
   <id>https://wuchangsir.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HelloWorld</title>
+    <link href="https://wuchangsir.com/archives/77770c79.html"/>
+    <id>https://wuchangsir.com/archives/77770c79.html</id>
+    <published>2020-07-06T04:53:21.000Z</published>
+    <updated>2020-07-06T04:55:21.328Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hello-World技术团队招募&quot;&gt;&lt;a href=&quot;#Hello-World技术团队招募&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="其他" scheme="https://wuchangsir.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="其他" scheme="https://wuchangsir.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
   
   <entry>
     <title>学习资源分享</title>
