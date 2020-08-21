@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wuchangsir.com/about/index.html</loc>
+    
+    <lastmod>2020-08-21T22:41:11.123Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wuchangsir.com/archives/abdea3f0.html</loc>
     
-    <lastmod>2020-08-21T22:28:16.133Z</lastmod>
+    <lastmod>2020-08-21T22:28:45.651Z</lastmod>
     
   </url>
   
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://wuchangsir.com/about/index.html</loc>
-    
-    <lastmod>2020-01-20T11:34:55.601Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://wuchangsir.com/404.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
@@ -58,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://wuchangsir.com/categories/index.html</loc>
+    <loc>https://wuchangsir.com/archives/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wuchangsir.com/archives/index.html</loc>
+    <loc>https://wuchangsir.com/categories/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
