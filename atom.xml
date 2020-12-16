@@ -1,79 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>无常</title>
+  <title>泉遇文创</title>
   
-  <subtitle>Just Do It!</subtitle>
+  <subtitle>致力于传承、弘扬中华传统文化</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wuchangsir.com/"/>
-  <updated>2020-08-21T22:28:45.651Z</updated>
+  <updated>2020-12-16T12:00:25.087Z</updated>
   <id>https://wuchangsir.com/</id>
   
   <author>
-    <name>圣涛</name>
+    <name>泉遇文创</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>设计模式系列一</title>
-    <link href="https://wuchangsir.com/archives/abdea3f0.html"/>
-    <id>https://wuchangsir.com/archives/abdea3f0.html</id>
-    <published>2020-08-15T10:26:26.000Z</published>
-    <updated>2020-08-21T22:28:45.651Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="设计模式" scheme="https://wuchangsir.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-    
-      <category term="设计模式" scheme="https://wuchangsir.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>工夹具全寿命智能管理系统简介</title>
-    <link href="https://wuchangsir.com/archives/d703abbf.html"/>
-    <id>https://wuchangsir.com/archives/d703abbf.html</id>
-    <published>2020-08-15T07:48:48.000Z</published>
-    <updated>2020-08-15T09:45:32.096Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;工夹具全寿命智能管理系统&quot;&gt;&lt;a href=&quot;#工夹具全寿命智能管理系统&quot; class=&quot;headerlink&quot; title=&quot;工夹具全寿命智能管理系统&quot;&gt;&lt;/a&gt;&lt;center&gt;工夹具全寿命智能管理系统&lt;/center&gt;&lt;/h1&gt;&lt;h2
-        
-      
-    
-    </summary>
-    
-      <category term="项目" scheme="https://wuchangsir.com/categories/%E9%A1%B9%E7%9B%AE/"/>
-    
-    
-      <category term="项目" scheme="https://wuchangsir.com/tags/%E9%A1%B9%E7%9B%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello-World团队招募</title>
+    <title>钱币鉴赏 - 秦半两</title>
     <link href="https://wuchangsir.com/archives/c4aac0a1.html"/>
     <id>https://wuchangsir.com/archives/c4aac0a1.html</id>
-    <published>2020-07-06T05:21:53.000Z</published>
-    <updated>2020-07-06T05:33:02.349Z</updated>
+    <published>2020-10-06T05:21:53.000Z</published>
+    <updated>2020-12-16T12:00:25.087Z</updated>
     
     <summary type="html">
     
@@ -81,25 +29,25 @@
       
         
         
-          &lt;h1 id=&quot;Hello-World技术团队招募&quot;&gt;&lt;a href=&quot;#Hello-World技术团队招募&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;钱币鉴赏——半两&quot;&gt;&lt;a href=&quot;#钱币鉴赏——半两&quot; class=&quot;headerlink&quot; title=&quot;钱币鉴赏——半两&quot;&gt;&lt;/a&gt;&lt;center&gt;钱币鉴赏——半两&lt;/center&gt;&lt;/h1&gt;&lt;p&gt;&lt;img
         
       
     
     </summary>
     
-      <category term="其他" scheme="https://wuchangsir.com/categories/%E5%85%B6%E4%BB%96/"/>
+      <category term="钱币鉴赏" scheme="https://wuchangsir.com/categories/%E9%92%B1%E5%B8%81%E9%89%B4%E8%B5%8F/"/>
     
     
-      <category term="其他" scheme="https://wuchangsir.com/tags/%E5%85%B6%E4%BB%96/"/>
+      <category term="秦半两" scheme="https://wuchangsir.com/tags/%E7%A7%A6%E5%8D%8A%E4%B8%A4/"/>
     
   </entry>
   
   <entry>
-    <title>学习资源分享</title>
-    <link href="https://wuchangsir.com/archives/e4a25fa3.html"/>
-    <id>https://wuchangsir.com/archives/e4a25fa3.html</id>
-    <published>2020-04-28T05:49:09.000Z</published>
-    <updated>2020-04-29T02:53:09.126Z</updated>
+    <title>钱币鉴赏 - 顺治通宝</title>
+    <link href="https://wuchangsir.com/archives/abdea3f0.html"/>
+    <id>https://wuchangsir.com/archives/abdea3f0.html</id>
+    <published>2020-10-06T05:21:53.000Z</published>
+    <updated>2020-12-16T12:03:33.201Z</updated>
     
     <summary type="html">
     
@@ -107,20 +55,42 @@
       
         
         
-          &lt;h1 id=&quot;听听音乐&quot;&gt;&lt;a href=&quot;#听听音乐&quot; class=&quot;headerlink&quot; title=&quot;听听音乐&quot;&gt;&lt;/a&gt;&lt;center&gt;听听音乐&lt;/center&gt;&lt;/h1&gt;&lt;div align=&quot;middle&quot; width=&quot;100%&quot;&gt;&lt;iframe
+          &lt;h1 id=&quot;钱币鉴赏——顺治通宝&quot;&gt;&lt;a href=&quot;#钱币鉴赏——顺治通宝&quot; class=&quot;headerlink&quot; title=&quot;钱币鉴赏——顺治通宝&quot;&gt;&lt;/a&gt;&lt;center&gt;钱币鉴赏——顺治通宝&lt;/center&gt;&lt;/h1&gt;&lt;p&gt;&lt;img
         
       
     
     </summary>
     
-      <category term="资源" scheme="https://wuchangsir.com/categories/%E8%B5%84%E6%BA%90/"/>
+      <category term="钱币鉴赏" scheme="https://wuchangsir.com/categories/%E9%92%B1%E5%B8%81%E9%89%B4%E8%B5%8F/"/>
     
     
-      <category term="前端" scheme="https://wuchangsir.com/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="顺治通宝" scheme="https://wuchangsir.com/tags/%E9%A1%BA%E6%B2%BB%E9%80%9A%E5%AE%9D/"/>
     
-      <category term="后端" scheme="https://wuchangsir.com/tags/%E5%90%8E%E7%AB%AF/"/>
+  </entry>
+  
+  <entry>
+    <title>钱币鉴赏 - 开元通宝</title>
+    <link href="https://wuchangsir.com/archives/d703abbf.html"/>
+    <id>https://wuchangsir.com/archives/d703abbf.html</id>
+    <published>2020-10-06T05:21:53.000Z</published>
+    <updated>2020-12-16T12:00:13.451Z</updated>
     
-      <category term="全栈" scheme="https://wuchangsir.com/tags/%E5%85%A8%E6%A0%88/"/>
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;钱币鉴赏——开元通宝&quot;&gt;&lt;a href=&quot;#钱币鉴赏——开元通宝&quot; class=&quot;headerlink&quot; title=&quot;钱币鉴赏——开元通宝&quot;&gt;&lt;/a&gt;&lt;center&gt;钱币鉴赏——开元通宝&lt;/center&gt;&lt;/h1&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="钱币鉴赏" scheme="https://wuchangsir.com/categories/%E9%92%B1%E5%B8%81%E9%89%B4%E8%B5%8F/"/>
+    
+    
+      <category term="开元通宝" scheme="https://wuchangsir.com/tags/%E5%BC%80%E5%85%83%E9%80%9A%E5%AE%9D/"/>
     
   </entry>
   
