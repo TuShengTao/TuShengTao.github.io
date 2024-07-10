@@ -155,6 +155,19 @@ const config: Config = {
               label: 'Discord',
               href: 'https://discord.gg/neQ55zhs',
             },
+            {
+              html: `
+                <div style="position: relative;">
+                <a href="javascript:void(0)">
+                  <div id="wechatDropdown" class="wechat-dropdown" style="display: none; position: absolute; top: -300px; text-align: center">
+                    <img width="180" height="250" src="/img/wechat.png" alt="weChat">
+                  </div>
+                  <span class="wechat-span" onmouseover="document.getElementById('wechatDropdown').style.display='block';" onmouseout="document.getElementById('wechatDropdown').style.display='none';">WeChat</span>
+                </a>
+              </div>
+
+              `,
+            }
           ],
         },
         {
