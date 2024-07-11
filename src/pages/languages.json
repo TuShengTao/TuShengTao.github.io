@@ -25,12 +25,12 @@
       {
         "title": "轻松上手",
         "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM提供可视化流程编排能力，能够轻松地构建复杂的流程。只需通过拖拽节点和填写表单配置即可完成业务流程的创建，极大地降低了使用门槛。"
+        "description": "GoGoLLM提供可视化流程编排能力，能够轻松地构建复杂的流程。"
       },
       {
-        "title": "轻松上手2",
+        "title": "安全可靠",
         "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM提供可视化流程编排能力，能够轻松地构建复杂的流程。只需通过拖拽节点和填写表单配置即可完成业务流程的创建，极大地降低了使用门槛。"
+        "description": "提供完善的权限管理、操作日志记录，实现平台操作审计。"
       },
       {
         "title": "轻松上手3",
@@ -76,9 +76,9 @@
         "description": "GoGoLLM offers visual process orchestration capabilities, making it easy to construct complex workflows. Simply by dragging and dropping nodes and filling out form configurations, you can create business processes, significantly reducing the barrier to entry."
       },
       {
-        "title": "xxx2",
-        "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM offers visual process orchestration capabilities, making it easy to construct complex workflows. Simply by dragging and dropping nodes and filling out form configurations, you can create business processes, significantly reducing the barrier to entry."
+        "title": "Safe & Reliable",
+        "icon": "@site/static/img/safe-reliable.svg",
+        "description": "Provides comprehensive access management and operation log recording, enabling platform operation auditing."
       },
       {
         "title": "xxx3",
