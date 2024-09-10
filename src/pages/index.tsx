@@ -36,7 +36,7 @@ export default function Home(): JSX.Element {
     const isBrowser = useIsBrowser();
     const pathname = isBrowser && location.pathname
     const language =
-        isBrowser && location.pathname.indexOf("/zh-CN/") === 0 ? "zh-CN" : "en";
+        isBrowser && location.pathname.indexOf("/en/") === 0 ?  "en" : "zh-CN";
     const dataSource = config?.[language];
 
     useEffect(() => {
@@ -44,7 +44,7 @@ export default function Home(): JSX.Element {
             const nav = document.getElementsByTagName('nav')[0];
             const classList = nav && nav.classList;
             if (!classList) return;
-            if (pathname === '/' || pathname === '/zh-CN/') {
+            if (pathname === '/' || pathname === '/en/') {
                 classList.add('index-nav');
             } else {
                 classList.remove('index-nav');
