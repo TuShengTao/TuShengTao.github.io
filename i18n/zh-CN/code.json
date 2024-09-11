@@ -170,9 +170,9 @@
     "message": "关闭",
     "description": "The ARIA label for close button of announcement bar"
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "最近博文导航",
-    "description": "The ARIA label for recent posts in the blog sidebar"
+  "theme.blog.sidebar.blogSidebarTitle": {
+    "message": "所有文章",
+    "description": "The ARIA label for all posts in the blog sidebar"
   },
   "theme.CodeBlock.copied": {
     "message": "复制成功",
