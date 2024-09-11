@@ -1,7 +1,6 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-import {translate} from '@docusaurus/Translate';
 
 const config: Config = {
   title: 'GoGoLLM',
@@ -59,11 +58,14 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: translate({
-            id: 'theme.blog.sidebar.title', // 在 code.json 文件中定义的 ID
-            message: 'All posts',
-            description: 'Title for the blog sidebar',
-          }),
+          blogSidebarTitle: ({ locale }) => {
+            switch (locale) {
+              case 'zh-CN':
+                return '所有文章';
+              default:
+                return 'All posts';
+            }
+          },
           blogSidebarCount: 'ALL',
         },
         theme: {
