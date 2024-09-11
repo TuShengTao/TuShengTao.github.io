@@ -163,10 +163,10 @@ const config: Config = {
                   </a>
                 </div>
               <script>
-                // 检测URL是否包含/zh-CN
+                // 检测URL是否包含/en
                 function checkLocale() {
                   var url = window.location.href;
-                  if (url.indexOf('/zh-CN') !== -1) {
+                  if (url.indexOf('/en') !== -1) {
                     document.getElementById('wechatText').textContent = '微信';
                   } else {
                     document.getElementById('wechatText').textContent = 'WeChat';
