@@ -167,9 +167,9 @@ const config: Config = {
                 function checkLocale() {
                   var url = window.location.href;
                   if (url.indexOf('/en') !== -1) {
-                    document.getElementById('wechatText').textContent = '微信';
-                  } else {
                     document.getElementById('wechatText').textContent = 'WeChat';
+                  } else {
+                    document.getElementById('wechatText').textContent = '微信';
                   }
                 }
                 window.onload = function() {
