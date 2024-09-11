@@ -54,10 +54,10 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.js'
+          sidebarPath: './sidebars.ts'
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: true
         },
         theme: {
           customCss: './src/css/custom.css',
