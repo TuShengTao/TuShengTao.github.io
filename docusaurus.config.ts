@@ -58,14 +58,7 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: ({ locale }) => {
-            switch (locale) {
-              case 'zh-CN':
-                return '所有文章';
-              default:
-                return 'All posts';
-            }
-          },
+          blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
         },
         theme: {
