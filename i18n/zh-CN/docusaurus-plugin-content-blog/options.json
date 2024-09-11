@@ -1,6 +1,3 @@
 {
-  "blogSidebarTitle": {
-    "en": "All posts",
-    "zh-CN": "所有文章"
-  }
+  "blogSidebarTitle": "所有文章"
 }
