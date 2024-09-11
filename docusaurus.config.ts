@@ -58,7 +58,7 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
-          // blogSidebarTitle: 'All posts',
+          blogSidebarTitle: '最新博客',
           // blogSidebarCount: 'ALL',
         },
         theme: {
