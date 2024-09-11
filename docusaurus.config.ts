@@ -54,18 +54,26 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/tushengtao/tushengtao.github.io/tree/main/',
+          sidebarPath: './sidebars.js',
+          // 使用函数来根据当前语言环境返回不同的 editUrl
+          editUrl: ({ locale }) => {
+            if (locale === 'zh-CN') {
+              return 'https://github.com/tushengtao/tushengtao.github.io/tree/main/i18n/zh-CN';
+            } else {
+              return 'https://github.com/tushengtao/tushengtao.github.io/tree/main/';
+            }
+          },
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/tushengtao/tushengtao.github.io/tree/main/',
+          // 同样使用函数来配置博客的 editUrl
+          editUrl: ({ locale }) => {
+            if (locale === 'zh-CN') {
+              return 'https://github.com/tushengtao/tushengtao.github.io/tree/main/i18n/zh-CN/blog';
+            } else {
+              return 'https://github.com/tushengtao/tushengtao.github.io/tree/main/blog';
+            }
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
