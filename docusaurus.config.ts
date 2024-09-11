@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+const { i18n } = require('@docusaurus/core');
 
 const config: Config = {
   title: 'GoGoLLM',
@@ -58,7 +59,11 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: 'All posts',
+          blogSidebarTitle: i18n.translate({
+            id: 'theme.blog.sidebar.title', // 在 code.json 文件中定义的 ID
+            message: 'All posts',
+            description: 'Title for the blog sidebar',
+          }),
           blogSidebarCount: 'ALL',
         },
         theme: {
