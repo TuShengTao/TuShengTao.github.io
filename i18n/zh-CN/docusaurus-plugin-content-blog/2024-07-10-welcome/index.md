@@ -1,5 +1,5 @@
 ---
-slug: 欢迎页
+slug: Welcome
 title: 欢迎您
 authors: [TST]
 tags: [hello]
