@@ -16,8 +16,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TuShengTao', // Usually your GitHub org/user name.
-  projectName: 'TuShengTao.github.io', // Usually your repo name.
+  organizationName: 'tushengtao', // Usually your GitHub org/user name.
+  projectName: 'tushengtao.github.io', // Usually your repo name.
   deploymentBranch:'gh-pages',
   trailingSlash: false,
 
@@ -58,14 +58,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TuShengTao/TuShengTao.github.io/',
+            'https://github.com/tushengtao/tushengtao.github.io/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TuShengTao/TuShengTao.github.io/',
+            'https://github.com/tushengtao/tushengtao.github.io/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -129,7 +129,7 @@ const config: Config = {
         },
 
         {
-          href: 'https://github.com/TuShengTao/gogollm',
+          href: 'https://github.com/tushengtao/gogollm',
           label: 'GitHub',
           position: 'right',
         },
@@ -195,12 +195,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/TuShengTao/gogollm',
+              href: 'https://github.com/tushengtao/gogollm',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} TuShengTao. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} tushengtao. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
