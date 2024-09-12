@@ -123,10 +123,17 @@ const config: Config = {
         },
 
         {
+          href: 'https://appbuilder.baidu.com/s/VjRseUZy',
+          label: '💬Chat',
+          position: 'right',
+        },
+
+        {
           href: 'https://github.com/tushengtao/gogollm',
           label: 'GitHub',
           position: 'right',
         },
+
 
       ],
     },
