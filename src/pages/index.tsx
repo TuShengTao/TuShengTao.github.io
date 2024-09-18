@@ -58,6 +58,10 @@ export default function Home(): JSX.Element {
       <HomepageHeader dataSource={dataSource}/>
       <main>
         <HomepageFeatures />
+          <img src={
+              require('@site/static/img/index_intro.png').default
+          }/>
+
       </main>
     </Layout>
   );

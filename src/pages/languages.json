@@ -25,17 +25,17 @@
       {
         "title": "轻松上手",
         "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM提供可视化流程编排能力，能够轻松地构建复杂的流程。"
+        "description": "可视化流程编排，高效构建LLM应用。"
       },
       {
         "title": "安全可靠",
         "icon": "@site/static/img/easy-use.svg",
-        "description": "提供完善的权限管理、操作日志记录，实现平台操作审计。"
+        "description": "完善的权限管理、操作日志记录，实现平台操作审计。"
       },
       {
-        "title": "轻松上手3",
-        "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM提供可视化流程编排能力，能够轻松地构建复杂的流程。只需通过拖拽节点和填写表单配置即可完成业务流程的创建，极大地降低了使用门槛。"
+        "title": "数据集成",
+        "icon": "@site/static/img/data_integration.svg",
+        "description": "企业级数据集成方案"
       }
     ],
     "development": [

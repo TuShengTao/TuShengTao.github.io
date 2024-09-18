@@ -1,0 +1,6 @@
+<svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     width="128" height="128">
+    <path d="M320 216v208l192 104 192-104V216l-192-104-192 104zM96 600v208l192 104 192-104v-208l-192-104-192 104z"
+          fill="#FA8C16"></path>
+    <path d="M544 600v208l192 104 192-104v-208l-192-104-192 104z" fill="#FFD591"></path>
+</svg>

@@ -69,7 +69,7 @@ export default function HomepageFeatures(): JSX.Element {
         },
         {
             title: dataSource.feature[2].title,
-            Svg: require('@site/static/img/easy-use.svg').default,
+            Svg: require('@site/static/img/data_integration.svg').default,
             description: (
                 <>
                     {dataSource.feature[2].description}
