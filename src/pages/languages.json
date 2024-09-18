@@ -30,7 +30,7 @@
       {
         "title": "安全可靠",
         "icon": "@site/static/img/easy-use.svg",
-        "description": "完善的权限管理、操作日志记录，实现平台操作审计。"
+        "description": "权限管理、操作日志记录，实现平台操作审计。"
       },
       {
         "title": "数据集成",
@@ -73,17 +73,17 @@
       {
         "title": "Easy to use",
         "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM offers visual process orchestration capabilities, making it easy to construct complex workflows. Simply by dragging and dropping nodes and filling out form configurations, you can create business processes, significantly reducing the barrier to entry."
+        "description": "Visualize workflow orchestration for efficient LLM application construction."
       },
       {
         "title": "Safe & Reliable",
         "icon": "@site/static/img/safe-reliable.svg",
-        "description": "Provides comprehensive access management and operation log recording, enabling platform operation auditing."
+        "description": "Permission management, operation log recording, to achieve platform operation auditing."
       },
       {
         "title": "xxx3",
-        "icon": "@site/static/img/easy-use.svg",
-        "description": "GoGoLLM offers visual process orchestration capabilities, making it easy to construct complex workflows. Simply by dragging and dropping nodes and filling out form configurations, you can create business processes, significantly reducing the barrier to entry."
+        "icon": "@site/static/img/data_integration.svg",
+        "description": "Enterprise-Level Data Integration Solution"
       }
     ],
     "development": [

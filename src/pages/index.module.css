@@ -22,3 +22,22 @@
   align-items: center;
   justify-content: center;
 }
+
+
+.diamond {
+  width: 80%;
+  height: 80%;
+  margin: 50px auto;
+  position: relative;
+  overflow: hidden;
+  transform: rotate(45deg);
+  border-radius: 15%; /* 调整此值以改变圆润程度 */
+}
+
+.diamond img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 60%; /* 调整图片位置 */
+  transform: rotate(-45deg);
+}

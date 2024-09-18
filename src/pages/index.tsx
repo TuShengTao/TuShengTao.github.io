@@ -7,36 +7,36 @@ import Heading from '@theme/Heading';
 import config from "./languages.json";
 import styles from './index.module.css';
 import useIsBrowser from "@docusaurus/useIsBrowser";
-import React, { useEffect } from 'react';
+import React, {useEffect} from 'react';
 
 
 function HomepageHeader({dataSource}) {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header  className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container" >
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{dataSource.slogan.description}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-              {dataSource.common.getStart}
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
+    const {siteConfig} = useDocusaurusContext();
+    return (
+        <header className={clsx('hero hero--primary', styles.heroBanner)}>
+            <div className="container">
+                <Heading as="h1" className="hero__title">
+                    {siteConfig.title}
+                </Heading>
+                <p className="hero__subtitle">{dataSource.slogan.description}</p>
+                <div className={styles.buttons}>
+                    <Link
+                        className="button button--secondary button--lg"
+                        to="/docs/intro">
+                        {dataSource.common.getStart}
+                    </Link>
+                </div>
+            </div>
+        </header>
+    );
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+    const {siteConfig} = useDocusaurusContext();
     const isBrowser = useIsBrowser();
     const pathname = isBrowser && location.pathname
     const language =
-        isBrowser && location.pathname.indexOf("/en/") === 0 ?  "en" : "zh-CN";
+        isBrowser && location.pathname.indexOf("/en/") === 0 ? "en" : "zh-CN";
     const dataSource = config?.[language];
 
     useEffect(() => {
@@ -51,18 +51,21 @@ export default function Home(): JSX.Element {
             }
         }
     }, [isBrowser, pathname])
-  return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader dataSource={dataSource}/>
-      <main>
-        <HomepageFeatures />
-          <img src={
-              require('@site/static/img/index_intro.png').default
-          }/>
+    return (
+        <Layout
+            title={`Hello from ${siteConfig.title}`}
+            description="Description will go into a meta tag in <head />">
+            <HomepageHeader dataSource={dataSource}/>
+            <main>
+                <HomepageFeatures/>
+                <div className={styles.diamond}>
+                    <img
+                        src={require('@site/static/img/index_intro.png').default}
+                        alt="GoGoLLM"
+                    />
+                </div>
 
-      </main>
-    </Layout>
-  );
+            </main>
+        </Layout>
+    );
 }
