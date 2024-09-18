@@ -3,8 +3,6 @@ sidebar_position: 2
 ---
 
 # 快速部署
-
-
 ## 1.前置条件
 1. docker
 2. docker-compose

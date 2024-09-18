@@ -23,19 +23,19 @@ GoGoLLM是开发者优先的面向企业级LLM应用研发平台, 专注于提�
 
 ![结构化信息抽取](./intro_imgs/gogollm_demo_json_extraction.gif)
 
-### 问题分类-分支节点
+### 3. 问题分类-分支节点
 > 根据用户问题使用大模型进行问题分类，之后根据大模型分类结果动态路由到不同角色的大模型来回答问题。
 
 ![问题分类](./intro_imgs/gogollm_demo_issue_classification.gif)
 
 
-### 百炼公司智能客服
+### 4. 百炼公司智能客服
 > 基于代码调用实现百炼手机商品知识库检索，知识库检索功能基于阿里云百炼平台实现。
 
 ![百炼公司智能客服](./intro_imgs/bailian_knowledge_product.gif)
 
 
-### 百炼公司客服智能体-query重写编排
+### 5. 百炼公司客服智能体-query重写编排
 > 使用大模型将用户原问题进行重写。
 > 
 > 原问题：我平时喜欢打游戏; 
@@ -47,21 +47,21 @@ GoGoLLM是开发者优先的面向企业级LLM应用研发平台, 专注于提�
 ![百炼公司客服智能体-query重写编排](./intro_imgs/bailian_query_rewrite.gif)
 
 
-### 基于http调用JinaAI Reader实现网页新闻智能摘要
+### 6. 基于http调用JinaAI Reader实现网页新闻智能摘要
 
 ![网页新闻智能摘要](./intro_imgs/news.gif)
 
-### 智能搜索助手-工具调用
+### 7. 智能搜索助手-工具调用
 
 ![智能搜索助手-工具调用](./intro_imgs/gogollm_demo_ai_search.gif)
 
 
-### 代码节点-代码智能补全
+### 8. 代码节点-代码智能补全
 > 实现了代码节点具备智能编码补全功能。
 
 ![代码智能补全](./intro_imgs/gogollm_demo_code_node_test.gif)
 
-### 智能语义化搜索
+### 9. 智能语义化搜索
 > 目前的demo演示基于企业内部自研业务场景，后续会推出开源的案例：智能租房搜索场景案例。
 
 > Tips: 企业级垂直领域智能搜索是本开源项目的重点。尽请关注后续进度......
