@@ -21,6 +21,7 @@ GoGoLLM是开发者优先的面向企业级LLM应用研发平台, 专注于提�
 
 > Tips: 企业级垂直领域智能搜索是本开源项目的重点。尽请关注后续进度......
 
+![智能语义化搜索](./intro_imgs/ai_sousu.gif)
 
 ### 2. 角色扮演对话——苏苏
 
@@ -68,8 +69,6 @@ GoGoLLM是开发者优先的面向企业级LLM应用研发平台, 专注于提�
 
 ![代码智能补全](./intro_imgs/gogollm_demo_code_node_test.gif)
 
-
-![智能语义化搜索](./intro_imgs/ai_sousu.gif)
 
 如有相关咨询可添加下方微信：
 
