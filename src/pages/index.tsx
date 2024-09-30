@@ -8,7 +8,7 @@ import config from "./languages.json";
 import styles from './index.module.css';
 import useIsBrowser from "@docusaurus/useIsBrowser";
 import React, {useEffect} from 'react';
-
+import { Analytics } from "@vercel/analytics/react"
 
 function HomepageHeader({dataSource}) {
     const {siteConfig} = useDocusaurusContext();
