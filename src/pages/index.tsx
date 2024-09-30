@@ -10,6 +10,7 @@ import useIsBrowser from "@docusaurus/useIsBrowser";
 import React, {useEffect} from 'react';
 import { Analytics } from "@vercel/analytics/react"
 
+
 function HomepageHeader({dataSource}) {
     const {siteConfig} = useDocusaurusContext();
     return (
@@ -56,6 +57,7 @@ export default function Home(): JSX.Element {
             title={`Hello from ${siteConfig.title}`}
             description="Description will go into a meta tag in <head />">
             <HomepageHeader dataSource={dataSource}/>
+            <Analytics />
             <main>
                 <HomepageFeatures/>
                 <div className={styles.diamond}>
